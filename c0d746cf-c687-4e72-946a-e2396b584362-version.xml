@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><title_patch ac_set_rev="0" nptitleid="PPSA01325_00" schema_ver="1.0">
+<app_tag content_id="IP9100-PPSA01325_00-PREINMASTER00000" name="_Import20240604143801" revision="36">
+<package content_ver="01.900.000" delta_url="http://gst.prod.dl.playstation.net/gst/prod/00/PPSA01325_00/app/pkg/33/f_509f8065a1e6bc2acc7b563c7d185bcaaa6dc0af5f4d42abc922bdc0195b3a28/IP9100-PPSA01325_00-PREINMASTER00000-DP.pkg" digest="6039bab4d4d816e9be2e059455ec5b45523a23e35715b72f85f1e9889f67f95f" mandatory="false" manifest_url="https://sgst.prod.dl.playstation.net/sgst/prod/00/PPSA01325_00/app/info/36/f_48f68f325e1705d79e70050694029fa8627e181964b9d03681ca8e78aaead53a/IP9100-PPSA01325_00-PREINMASTER00000.json" metadata_ver="36" pfs_revision="33" system_ver="153092101"/>
+</app_tag>
+<pssdc>
+<nptitleid>PPSA21559_00</nptitleid>
+<nptitleid>PPSA21564_00</nptitleid>
+<nptitleid>PPSA21567_00</nptitleid>
+<nptitleid>PPSA21568_00</nptitleid>
+<nptitleid>PPSA23060_00</nptitleid>
+</pssdc>
+</title_patch>
